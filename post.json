@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Saba",
+      "last_name": "Tamil",
+      "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 2,
+      "first_name": "VelMurugan",
+      "last_name": "English",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Palani",
+      "last_name": "Maths",
+      "email": "ann@codingthesmartway.com"
+    }
+  ]
+}
